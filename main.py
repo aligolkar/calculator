@@ -1,7 +1,7 @@
 from math_operation import add,subtract,multiply,divide
 
 
-print("\n\n===== Calculator =====\n\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n0. Exit\n")
+print("\n\n===== Basic Calculator =====\n\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n0. Exit\n")
 
 def get_integer(message):
     while True:
